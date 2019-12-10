@@ -10,8 +10,11 @@ public class Main {
         //a tutaj dodaje zmiany na stronie Github
 
         System.out.println("jeszcze cos dodaje w idei");
-        
-        
+
+
         //drugi raz dodaje cos z gihuba
+
+
+        System.out.println("koljen dodanie info z idei");
     }
 }
