@@ -6,5 +6,7 @@ public class Main {
 
 
         System.out.println("Tutaj coś wpisuję w Idei");
+
+        System.out.println("jeszcze cos dodaje w idei");
     }
 }
